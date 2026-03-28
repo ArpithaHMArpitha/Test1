@@ -4,7 +4,7 @@ class MethodExample1 {
 	//1. Method without argument, without return statement
 	
 	public void test() {
-		System.out.println("learning methods");
+		System.out.println("learning methods in java");
 	}
 	
 	public static void main(String[] args) {
